@@ -16,7 +16,7 @@ from . import xsampa
 from .segment import Segment
 
 feature_sets = {
-    'spe+': (os.path.join('data', 'ipa_all.csv'),
+    'spe+': (os.path.join('data', 'ipa_all_2.csv'),
              os.path.join('data', 'feature_weights.csv'))
 }
 
